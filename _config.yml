@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Bilgi"
 title_separator          : "-"
 name                     : &name "Emrehan Yazıcı"
-description              : &description "Student"
-url                      : https://bilgilendin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Businessman"
+url                      : https://buy.cheap.corono.mask.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bilgilendin.github.io"
+repository               : "corono.mask.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Emrehan Yazıcı"
   avatar           : "profile.png"
-  bio              : "İstanbul Üsküdar Lisesinde 12. sınıf öğrencisi"
+  bio              : "working for mask producing company"
   location         : "Ümraniye/İstanbul"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bilgilendin"
+  github           : "buy.mask"
   google_plus      :
   keybase          :
   instagram        : "emrhanyaz"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/bilgilendin"
+  orcid            : "http://orcid.org/coronamask"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
